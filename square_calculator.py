@@ -6,4 +6,5 @@ def main():
 def square(number):
     return number * number
 
-main()
+if __name__ == "__main__":
+    main()
